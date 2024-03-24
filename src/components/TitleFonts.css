@@ -1,0 +1,11 @@
+/* fonts.css */
+@font-face {
+    font-family: 'Get Schwifty';
+    src: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/3089507/get-schwifty.woff') format('woff');
+  }
+
+h1 {
+    color: green;
+    font-family: 'Get Schwifty';
+    filter: drop-shadow(2px 2px 1px #FFF765);
+  }
